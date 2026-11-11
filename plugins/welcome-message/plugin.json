@@ -1,0 +1,7 @@
+{
+  "format": 1,
+  "id": "welcome-message",
+  "name": "WelcomeMessage",
+  "version": "1.0.0",
+  "description": "Greets players with a welcome message in chat when they log in."
+}

@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "plugins": [
+    {
+      "id": "welcome-message",
+      "name": "Welcome Message",
+      "author": "RSPS team",
+      "category": "Community",
+      "version": "1.0.0",
+      "description": "Greets players with a welcome message in chat when they log in."
+    }
+  ]
+}
